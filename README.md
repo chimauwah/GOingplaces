@@ -1,0 +1,2 @@
+# GOingplaces
+initial Go project
